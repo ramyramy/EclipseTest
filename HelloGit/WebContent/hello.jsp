@@ -4,11 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>코리아 그랜트 페스타 </title>
-
-	<h2>코리아 세일 페스타</h2>
-	
+<title>코리아 그랜트 페스타 </title>	
 </head>
+
+
 <body>
 
 <h2>Hello Git!!</h2>
