@@ -4,7 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>코리아 그랜트 페스타 </title>
+
+	<h2>코리아 세일 페스타</h2>
+	
 </head>
 <body>
 
